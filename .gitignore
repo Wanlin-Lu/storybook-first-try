@@ -7,9 +7,11 @@
 
 # testing
 /coverage
+/storybook-static
 
 # production
 /build
+src/index.css
 
 # misc
 .DS_Store
